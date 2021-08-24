@@ -1,0 +1,20 @@
+.contact-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: space-between;
+  background-color: #376769;
+  border: 14px solid #090909;
+  border-radius: 18px;
+  width: 323px;
+  height: 392px;
+  margin: 19px;
+  padding: -1px;;
+}
+.btn-primary{
+  color: #fff;
+  background-color: #000306;
+  border-color: #0d4eb2;
+   padding: 4px; 
+  margin: 4px;
+}
